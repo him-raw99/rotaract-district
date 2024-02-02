@@ -32,15 +32,11 @@ export default function Landing() {
                         <div className="items-center flex flex-wrap">
                             <div className="w-full lg:w-6/12 px-4 ml-auto mr-auto text-center">
                                 <div>
-                                    <h1 className="text-white font-semibold text-5xl">
-                                        Your story starts with us.
+                                    <h1 className="text-white font-semibold text-5xl letter-spacing">
+                                        HARMONY HERALD
                                     </h1>
                                     <p className="mt-4 text-lg text-gray-300">
-                                        This is a simple example of a Landing
-                                        Page you can build using Tailwind
-                                        Starter Kit. It features multiple CSS
-                                        components based on the Tailwindcss
-                                        design system.
+                                        Connecting Leaders, Inspiring Change
                                     </p>
                                 </div>
                             </div>
@@ -58,16 +54,17 @@ export default function Landing() {
                             viewBox="0 0 2560 100"
                             x="0"
                             y="0"
+                        style={{ height: "70px" }}
                         >
                             <polygon
-                                className="text-blueGray-200 fill-current"
+                                className="text-green-100 fill-current"
                                 points="2560 0 2560 100 0 100"
                             ></polygon>
                         </svg>
                     </div>
                 </div>
 
-                <section className="pb-20 bg-blueGray-200 -mt-24">
+                <section className="pb-20 bg-green-100 -mt-24">
                     <div className="container mx-auto px-4">
                         <div className="flex flex-wrap">
                             <div className="lg:pt-12 pt-6 w-full md:w-4/12 px-4 text-center">
@@ -156,32 +153,17 @@ export default function Landing() {
                             </div>
 
                             <div className="w-full md:w-4/12 px-4 mr-auto ml-auto">
-                                <div className="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-pink-600">
+                                <div className="relative flex flex-col min-w-0 break-words bg-pink-600 w-full mb-6 shadow-lg rounded-lg bg-pink-600">
                                     <img
                                         alt="..."
                                         src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80"
                                         className="w-full align-middle rounded-t-lg"
                                     />
                                     <blockquote className="relative p-8 mb-4">
-                                        <svg
-                                            preserveAspectRatio="none"
-                                            xmlns="http://www.w3.org/2000/svg"
-                                            viewBox="0 0 583 95"
-                                            className="absolute left-0 w-full block"
-                                            style={{
-                                                height: "95px",
-                                                top: "-94px",
-                                            }}
-                                        >
-                                            <polygon
-                                                points="-30,95 583,95 583,65"
-                                                className="text-pink-600 fill-current"
-                                            ></polygon>
-                                        </svg>
                                         <h4 className="text-xl font-bold text-white">
                                             Top Notch Services
                                         </h4>
-                                        <p className="text-md font-light mt-2 text-white">
+                                        <p className="text-md mt-2 text-white">
                                             The Arctic Ocean freezes every
                                             winter and much of the sea-ice then
                                             thaws every summer, and that process
@@ -194,7 +176,7 @@ export default function Landing() {
                     </div>
                 </section>
 
-                <section className="relative py-20">
+                <section className="relative py-20 bg-slate-100">
                     <div
                         className="bottom-auto top-0 left-0 right-0 w-full absolute pointer-events-none overflow-hidden -mt-20"
                         style={{ height: "80px" }}
@@ -209,7 +191,7 @@ export default function Landing() {
                             y="0"
                         >
                             <polygon
-                                className="text-white fill-current"
+                                className="text-slate-100 fill-current"
                                 points="2560 0 2560 100 0 100"
                             ></polygon>
                         </svg>
