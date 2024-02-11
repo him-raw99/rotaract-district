@@ -74,12 +74,10 @@ export default function Landing() {
                                             <i className="fas fa-award"></i>
                                         </div>
                                         <h6 className="text-xl font-semibold">
-                                            Awarded Agency
+                                        What is Rotaract?
                                         </h6>
                                         <p className="mt-2 mb-4 text-gray-600">
-                                            Divide details about your product or
-                                            agency work into parts. A paragraph
-                                            describing a feature will be enough.
+                                        Rotaract is a global youth service organization sponsored by Rotary International, aimed at young professionals and students between the ages of 18 and above. It offers opportunities for personal and professional development while engaging in community service.
                                         </p>
                                     </div>
                                 </div>
@@ -92,13 +90,11 @@ export default function Landing() {
                                             <i className="fas fa-retweet"></i>
                                         </div>
                                         <h6 className="text-xl font-semibold">
-                                            Free Revisions
+                                        How can I join Rotaract?
                                         </h6>
                                         <p className="mt-2 mb-4 text-gray-600">
-                                            Keep you user engaged by providing
-                                            meaningful information. Remember
-                                            that by this time, the user is
-                                            curious.
+                                        To join Rotaract, you can reach out to a local Rotaract club in your area and express your interest in becoming a member. Attend their meetings or events to get to know the club members and learn more about their activities.
+
                                         </p>
                                     </div>
                                 </div>
@@ -111,12 +107,11 @@ export default function Landing() {
                                             <i className="fas fa-fingerprint"></i>
                                         </div>
                                         <h6 className="text-xl font-semibold">
-                                            Verified Company
+                                        Is Rotaract an international organization?
                                         </h6>
                                         <p className="mt-2 mb-4 text-gray-600">
-                                            Write a few lines about each one. A
-                                            paragraph describing a feature will
-                                            be enough. Keep you user engaged!
+                                        Yes, Rotaract is an international organization with clubs in various countries around the world. It provides a platform for young adults to connect, collaborate, and engage in service on both a local and global scale.
+
                                         </p>
                                     </div>
                                 </div>
