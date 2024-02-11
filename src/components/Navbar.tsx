@@ -12,17 +12,17 @@ export default function Navbar(props:{transparent:boolean}) {
             }
         >
             <div className="container px-4 mx-auto flex flex-wrap items-center justify-between">
-                <div className="w-full relative flex justify-between lg:w-auto lg:static lg:block lg:justify-start">
+                <div className="w-full relative flex justify-between lg:w-auto lg:static lg:block lg:justify-start tracking-widest">
                     <a
                         className={
                             (props.transparent
                                 ? "text-white"
                                 : "text-gray-800") +
-                            " text-sm font-bold leading-relaxed inline-block mr-4 py-2 whitespace-nowrap uppercase"
+                            " text-lg font-bold leading-relaxed inline-block mr-6 py-2 whitespace-nowrap uppercase"
                         }
-                        href="https://www.creative-tim.com/learning-lab/tailwind-starter-kit#/presentation"
+                        href="/"
                     >
-                        Tailwind Starter Kit
+                        ROTARACT
                     </a>
                     <button
                         className="cursor-pointer text-xl leading-none px-3 py-1 border border-solid border-transparent rounded bg-transparent block lg:hidden outline-none focus:outline-none"
@@ -45,29 +45,6 @@ export default function Navbar(props:{transparent:boolean}) {
                     }
                     id="example-navbar-warning"
                 >
-                    <ul className="flex flex-col lg:flex-row list-none mr-auto">
-                        <li className="flex items-center">
-                            <a
-                                className={
-                                    (props.transparent
-                                        ? "lg:text-white lg:hover:text-gray-300 text-gray-800"
-                                        : "text-gray-800 hover:text-gray-600") +
-                                    " px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
-                                }
-                                href="https://www.creative-tim.com/learning-lab/tailwind-starter-kit#/landing"
-                            >
-                                <i
-                                    className={
-                                        (props.transparent
-                                            ? "lg:text-gray-300 text-gray-500"
-                                            : "text-gray-500") +
-                                        " far fa-file-alt text-lg leading-lg mr-2"
-                                    }
-                                />{" "}
-                                Docs
-                            </a>
-                        </li>
-                    </ul>
                     <ul className="flex flex-col lg:flex-row list-none lg:ml-auto">
                         <li className="flex items-center">
                             <a
@@ -79,17 +56,7 @@ export default function Navbar(props:{transparent:boolean}) {
                                 }
                                 href="#pablo"
                             >
-                                <i
-                                    className={
-                                        (props.transparent
-                                            ? "lg:text-gray-300 text-gray-500"
-                                            : "text-gray-500") +
-                                        " fab fa-facebook text-lg leading-lg "
-                                    }
-                                />
-                                <span className="lg:hidden inline-block ml-2">
-                                    Share
-                                </span>
+                                about us
                             </a>
                         </li>
 
@@ -103,17 +70,7 @@ export default function Navbar(props:{transparent:boolean}) {
                                 }
                                 href="#pablo"
                             >
-                                <i
-                                    className={
-                                        (props.transparent
-                                            ? "lg:text-gray-300 text-gray-500"
-                                            : "text-gray-500") +
-                                        " fab fa-twitter text-lg leading-lg "
-                                    }
-                                />
-                                <span className="lg:hidden inline-block ml-2">
-                                    Tweet
-                                </span>
+                                contact us
                             </a>
                         </li>
 
@@ -127,17 +84,7 @@ export default function Navbar(props:{transparent:boolean}) {
                                 }
                                 href="#pablo"
                             >
-                                <i
-                                    className={
-                                        (props.transparent
-                                            ? "lg:text-gray-300 text-gray-500"
-                                            : "text-gray-500") +
-                                        " fab fa-github text-lg leading-lg "
-                                    }
-                                />
-                                <span className="lg:hidden inline-block ml-2">
-                                    Star
-                                </span>
+                                something
                             </a>
                         </li>
 

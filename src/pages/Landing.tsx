@@ -54,7 +54,7 @@ export default function Landing() {
                             viewBox="0 0 2560 100"
                             x="0"
                             y="0"
-                        style={{ height: "70px" }}
+                            style={{ height: "70px" }}
                         >
                             <polygon
                                 className="text-green-100 fill-current"
@@ -129,27 +129,16 @@ export default function Landing() {
                                     <i className="fas fa-user-friends text-xl"></i>
                                 </div>
                                 <h3 className="text-3xl mb-2 font-semibold leading-normal">
-                                    Working with us is a pleasure
+                                Know more About Us
                                 </h3>
                                 <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-gray-700">
-                                    Don't let your uses guess by attaching
-                                    tooltips and popoves to any element. Just
-                                    make sure you enable them first via
-                                    JavaScript.
+                                    Rotaract District Organization 3011 comprises of Rotaract Clubs from Delhi, Gurugram, Faridabad and Rewari.
+                                    Rotaract 3011 is an ensemble of dynamic young minds determined to make a positive difference in society!
                                 </p>
                                 <p className="text-lg font-light leading-relaxed mt-0 mb-4 text-gray-700">
-                                    The kit comes with three pre-built pages to
-                                    help you get started faster. You can change
-                                    the text and images and you're good to go.
-                                    Just make sure you enable them first via
-                                    JavaScript.
+                                Filled with frolic and fellowship, Rotaract has been a platform for thousands to come up with innovative solutions to 
+                                    positively impact the world, while we CONNECT, PARTNER & GROW together.
                                 </p>
-                                <a
-                                    href="https://www.creative-tim.com/learning-lab/tailwind-starter-kit#/presentation"
-                                    className="font-bold text-gray-800 mt-8"
-                                >
-                                    Check Tailwind Starter Kit!
-                                </a>
                             </div>
 
                             <div className="w-full md:w-4/12 px-4 mr-auto ml-auto">
@@ -212,13 +201,10 @@ export default function Landing() {
                                         <i className="fas fa-rocket text-xl"></i>
                                     </div>
                                     <h3 className="text-3xl font-semibold">
-                                        A growing company
+                                    READY TO JOIN ROTARACT?
                                     </h3>
                                     <p className="mt-4 text-lg leading-relaxed text-gray-600">
-                                        The extension comes with three pre-built
-                                        pages to help you get started faster.
-                                        You can change the text and images and
-                                        you're good to go.
+                                    Together, we are an ocean. We believe that coming together is a beginning, working together is progress and achieving goals together is our goal.
                                     </p>
                                     <ul className="list-none mt-6">
                                         <li className="py-2">
