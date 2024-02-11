@@ -74,10 +74,10 @@ export default function Landing() {
                                             <i className="fas fa-award"></i>
                                         </div>
                                         <h6 className="text-xl font-semibold">
-                                        What is Rotaract?
+                                            What is Rotaract?
                                         </h6>
                                         <p className="mt-2 mb-4 text-gray-600">
-                                        Rotaract is a global youth service organization sponsored by Rotary International, aimed at young professionals and students between the ages of 18 and above. It offers opportunities for personal and professional development while engaging in community service.
+                                            Rotaract is a global youth service organization sponsored by Rotary International, aimed at young professionals and students between the ages of 18 and above. It offers opportunities for personal and professional development while engaging in community service.
                                         </p>
                                     </div>
                                 </div>
@@ -90,10 +90,10 @@ export default function Landing() {
                                             <i className="fas fa-retweet"></i>
                                         </div>
                                         <h6 className="text-xl font-semibold">
-                                        How can I join Rotaract?
+                                            How can I join Rotaract?
                                         </h6>
                                         <p className="mt-2 mb-4 text-gray-600">
-                                        To join Rotaract, you can reach out to a local Rotaract club in your area and express your interest in becoming a member. Attend their meetings or events to get to know the club members and learn more about their activities.
+                                            To join Rotaract, you can reach out to a local Rotaract club in your area and express your interest in becoming a member. Attend their meetings or events to get to know the club members and learn more about their activities.
 
                                         </p>
                                     </div>
@@ -107,10 +107,10 @@ export default function Landing() {
                                             <i className="fas fa-fingerprint"></i>
                                         </div>
                                         <h6 className="text-xl font-semibold">
-                                        Is Rotaract an international organization?
+                                            Is Rotaract an international organization?
                                         </h6>
                                         <p className="mt-2 mb-4 text-gray-600">
-                                        Yes, Rotaract is an international organization with clubs in various countries around the world. It provides a platform for young adults to connect, collaborate, and engage in service on both a local and global scale.
+                                            Yes, Rotaract is an international organization with clubs in various countries around the world. It provides a platform for young adults to connect, collaborate, and engage in service on both a local and global scale.
 
                                         </p>
                                     </div>
@@ -124,14 +124,14 @@ export default function Landing() {
                                     <i className="fas fa-user-friends text-xl"></i>
                                 </div>
                                 <h3 className="text-3xl mb-2 font-semibold leading-normal">
-                                Know more About Us
+                                    Know more About Us
                                 </h3>
                                 <p className="text-lg font-light leading-relaxed mt-4 mb-4 text-gray-700">
                                     Rotaract District Organization 3011 comprises of Rotaract Clubs from Delhi, Gurugram, Faridabad and Rewari.
                                     Rotaract 3011 is an ensemble of dynamic young minds determined to make a positive difference in society!
                                 </p>
                                 <p className="text-lg font-light leading-relaxed mt-0 mb-4 text-gray-700">
-                                Filled with frolic and fellowship, Rotaract has been a platform for thousands to come up with innovative solutions to 
+                                    Filled with frolic and fellowship, Rotaract has been a platform for thousands to come up with innovative solutions to
                                     positively impact the world, while we CONNECT, PARTNER & GROW together.
                                 </p>
                             </div>
@@ -192,14 +192,11 @@ export default function Landing() {
                             </div>
                             <div className="w-full md:w-5/12 ml-auto mr-auto px-4">
                                 <div className="md:pr-12">
-                                    <div className="text-pink-600 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-pink-300">
-                                        <i className="fas fa-rocket text-xl"></i>
-                                    </div>
                                     <h3 className="text-3xl font-semibold">
-                                    READY TO JOIN ROTARACT?
+                                        READY TO JOIN ROTARACT?
                                     </h3>
                                     <p className="mt-4 text-lg leading-relaxed text-gray-600">
-                                    Together, we are an ocean. We believe that coming together is a beginning, working together is progress and achieving goals together is our goal.
+                                        Together, we are an ocean. We believe that coming together is a beginning, working together is progress and achieving goals together is our goal.
                                     </p>
                                     <ul className="list-none mt-6">
                                         <li className="py-2">
